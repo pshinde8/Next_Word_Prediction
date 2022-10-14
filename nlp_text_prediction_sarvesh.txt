@@ -1,0 +1,8 @@
+1. next word prediction
+2. using word tokenizer - "It splits sentences into words"
+3. cleaning the sentences, by removing irrelevant words like stop words too
+3. Named entity recognition - "Parts of Speech sathi"
+4. Stemming and lemmatization - "Returns a word to its root form, stemming and lemmatization does the same work but a bit difference in results"
+5. Using TF-IDF (term frequency - inverse document frequency)  - "It will count the frequency of the words and scale down the more frequent words and scale up the less frequent words, this will help for finding the next word"
+6. Using sentiment analysis, for - "Good for next word prediction, using sentiments too as a considerable factor"
+7. Baki you sell the project now
